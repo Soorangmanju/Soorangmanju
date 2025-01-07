@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Dive Into Soo's Github🐳&fontColor=0:7F7FD5,50:86A8E7,100:91EAE4&animation=twinkling&fontSize=50)
+
 
 <!--
 **Soorangmanju/Soorangmanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
