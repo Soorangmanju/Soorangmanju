@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E6B3BC,30:49C2D5,60:8F89AF,100:DF3574&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E6B3BC,30:49C2D5,60:8F89AF,100:DF3574&height=200&section=header)
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Coral.png" alt="Coral" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spiral%20Shell.png" alt="Spiral Shell" width="30" height="30" />
