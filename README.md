@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=E6B3BC&height=150&section=header)
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Coral.png" alt="Coral" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spiral%20Shell.png" alt="Spiral Shell" width="30" height="30" />
