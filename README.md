@@ -15,9 +15,17 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Coral.png" alt="Coral" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spiral%20Shell.png" alt="Spiral Shell" width="50" height="50" />
-</div>
-<br><br>
-<div align="center">
+
+<br/><br/>
+
+ ### Dive into Soo's github
+
+---
+
+<br/><br/>
+[![Soorangmanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soorangmanju&show_icons=true&theme=transparent&text_color=49C2D5&title_color=E6B3BC&icon_color=DF3574&hide_border=true)](https://github.com/Soorangmanju/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorangmanju&hide_progress=true&show_icons=true&theme=transparent&text_color=49C2D5&title_color=E6B3BC&icon_color=DF3574&hide_border=true )
+<br/><br/>
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/Soorangmanju"
