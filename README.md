@@ -1,8 +1,3 @@
- ![image](https://github.com/user-attachments/assets/3d1ca27d-fb37-4bdd-b5b6-b64f83f8f52b)
-
-
-
-
 <!--
 **Soorangmanju/Soorangmanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
