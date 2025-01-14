@@ -1,7 +1,6 @@
-![Project2](https://github.com/user-attachments/assets/429f2138-071c-48f5-aea3-ae45beb0174c)
-
 <div align="center">
 
+  <img src="https://github.com/user-attachments/assets/429f2138-071c-48f5-aea3-ae45beb0174c" alt="Project2"  />
 
  ### Dive into Soo's github
 
